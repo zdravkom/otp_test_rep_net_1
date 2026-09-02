@@ -3,3 +3,4 @@
 "# dodavanje sve za pokretanje skeniranja s GitHuba" 
 "# third commit" 
 "# third commit" 
+"# prvi commit na moj zm_branch branch" 
