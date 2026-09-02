@@ -12,6 +12,7 @@ internal static class Program
         int _i = 1;
         int _j = 0;
         int _k = 0;
+        int _z = 123;
 
         while (true)
         {
