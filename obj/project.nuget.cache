@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQKiPnk5gW8=",
+  "success": true,
+  "projectFilePath": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\NetConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zmofard2\\.nuget\\packages\\sonaranalyzer.csharp\\10.7.0.110445\\sonaranalyzer.csharp.10.7.0.110445.nupkg.sha512",
+    "C:\\Users\\zmofard2\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\zmofard2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\zmofard2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\zmofard2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

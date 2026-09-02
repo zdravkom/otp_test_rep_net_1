@@ -1,0 +1,6 @@
+projectKey=zm_test_proj_01
+serverUrl=http://sonarqubetest:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://sonarqubetest:9000/dashboard?id=zm_test_proj_01
+ceTaskId=95e0bb0c-6f50-4eef-94bc-fc3233837bd7
+ceTaskUrl=http://sonarqubetest:9000/api/ce/task?id=95e0bb0c-6f50-4eef-94bc-fc3233837bd7
