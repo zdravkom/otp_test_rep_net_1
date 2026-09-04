@@ -5,3 +5,4 @@
 "# third commit" 
 "# prvi commit na moj zm_branch branch" 
 "# 4 commit na moj zm_branch branch" 
+"# 4. commit na moj zm_branch branch" 
