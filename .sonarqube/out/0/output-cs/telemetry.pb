@@ -1,0 +1,1 @@
+QR;C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\NetConsoleApp1.csproj¢net8.0òCSharp12

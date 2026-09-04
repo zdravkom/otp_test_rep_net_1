@@ -1,0 +1,4 @@
+﻿C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\Program.cs
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\Program2.cs
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\dotnet
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\README.md

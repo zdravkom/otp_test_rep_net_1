@@ -1,0 +1,15 @@
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\bin\Release\net8.0\NetConsoleApp1.exe
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\bin\Release\net8.0\NetConsoleApp1.deps.json
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\bin\Release\net8.0\NetConsoleApp1.runtimeconfig.json
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\bin\Release\net8.0\NetConsoleApp1.dll
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\bin\Release\net8.0\NetConsoleApp1.pdb
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.AssemblyInfoInputs.cache
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.AssemblyInfo.cs
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.csproj.CoreCompileInputs.cache
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.sourcelink.json
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.dll
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\refint\NetConsoleApp1.dll
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.pdb
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\NetConsoleApp1.genruntimeconfig.cache
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Release\net8.0\ref\NetConsoleApp1.dll

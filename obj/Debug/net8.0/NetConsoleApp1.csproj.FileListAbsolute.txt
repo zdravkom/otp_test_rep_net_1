@@ -12,3 +12,4 @@ C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Debug\net8.0\refint\NetConsoleApp1.dll
 C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Debug\net8.0\NetConsoleApp1.pdb
 C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Debug\net8.0\NetConsoleApp1.genruntimeconfig.cache
 C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Debug\net8.0\ref\NetConsoleApp1.dll
+C:\RAZVOJ\.NETPROJECTS\NetConsoleApp1\obj\Debug\net8.0\NetConsoleApp1.sourcelink.json

@@ -1,0 +1,100 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.3"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1788357928000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "testprojekt2_Git_Net_1"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.projectKey",
+      "value": "testprojekt2_Git_Net_1:5BC956E4-5A91-4F00-A341-7DE73F09EFF9"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.projectName",
+      "value": "NetConsoleApp1"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.projectBaseDir",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.working.directory",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.sources",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\Program.cs,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\Program2.cs,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\dotnet,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\README.md,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.vscode\\launch.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.vscode\\tasks.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\obj\\NetConsoleApp1.csproj.nuget.dgspec.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\obj\\project.assets.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.git\\workflows\\build.yml,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.git\\workflows\\sonarqube.yml,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\bin\\Debug\\net8.0\\NetConsoleApp1.deps.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\bin\\Debug\\net8.0\\NetConsoleApp1.runtimeconfig.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\bin\\Release\\net8.0\\NetConsoleApp1.deps.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\bin\\Release\\net8.0\\NetConsoleApp1.runtimeconfig.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\obj\\Debug\\net8.0\\NetConsoleApp1.sourcelink.json,C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\obj\\Release\\net8.0\\NetConsoleApp1.sourcelink.json"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.stylecop.projectFilePath",
+      "value": "C:\\sonar-scanner-10.1.0.110937-net\\SonarScanner.MSBuild.dll"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "5BC956E4-5A91-4F00-A341-7DE73F09EFF9.sonar.cs.scanner.telemetry",
+      "value": "C:\\RAZVOJ\\.NETPROJECTS\\NetConsoleApp1\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}
